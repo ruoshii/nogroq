@@ -1,0 +1,2 @@
+# nogroq
+free groq
